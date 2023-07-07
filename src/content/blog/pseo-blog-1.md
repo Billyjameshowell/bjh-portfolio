@@ -11,25 +11,6 @@ layout: '../../layouts/BlogPost.astro'
 ---
 
 =============================================================
-
-[![Billy Howell](https://miro.medium.com/v2/resize:fill:88:88/1*yAznp0RBspaJPznouBo7fg.png)
-
-](https://medium.com/@billy-howell?source=post_page-----f397be9182e3--------------------------------)
-
-[Billy Howell](https://medium.com/@billy-howell?source=post_page-----f397be9182e3--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F485158b26d55&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40billy-howell%2Fi-learned-programmatic-seo-pseo-in-one-day-f397be9182e3&user=Billy+Howell&userId=485158b26d55&source=post_page-485158b26d55----f397be9182e3---------------------post_header-----------)
-
-4 min read·Jun 14
-
-\--
-
-Listen
-
-Share
-
 Hi! Last night I stayed up until George Lopez reruns were playing on TV because I was making [vstdatabase.com](https://www.vstdatabase.com/). Read along to find out why and how!
 
 What’s PSEO?

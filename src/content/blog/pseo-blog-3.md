@@ -10,27 +10,6 @@ description: Lorem markdownum longo os thyrso telum, continet servat fetus nymph
 layout: '../../layouts/BlogPost.astro'
 ---
 =======================================================
-
-[![Billy Howell](https://miro.medium.com/v2/resize:fill:88:88/1*yAznp0RBspaJPznouBo7fg.png)
-
-](https://medium.com/@billy-howell?source=post_page-----44be9b73149e--------------------------------)
-
-[Billy Howell](https://medium.com/@billy-howell?source=post_page-----44be9b73149e--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F485158b26d55&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40billy-howell%2Ffrom-blog-post-to-saas-app-introducing-10minutecmo-com-44be9b73149e&user=Billy+Howell&userId=485158b26d55&source=post_page-485158b26d55----44be9b73149e---------------------post_header-----------)
-
-3 min read·1 day ago
-
-\--
-
-1
-
-Listen
-
-Share
-
 Hi! I just launched a SaaS product @ [10MinuteCMO.com](http://10minutecmo.com).
 
 The Tagline: Crush SEO by building up content targeting low volume keywords everyday in just 10 minutes.
