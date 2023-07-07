@@ -52,11 +52,17 @@ Airtable is like Excel built into a relational database. And it integrates with 
 
 I added a few plugins and then added fields like function, publisher and price. You can even store images of each item in Airtable. On the website each plugin will have it’s own page that shows this info.
 
+![Airtable screenshot](/post-one-airtable-screenshot.png)
+
+
 After linking Airtable to Softr this is what the website looks like.
 
-Isn’t she beautiful?
+![Airtable screenshot](/vstdatabase-screenshot.png)
+
+*Isn’t she beautiful?*
 
 And here’s what you see when you click a plugin.
+![Plugin Details Screenshot](/plugin-details-screenshot.png)
 
 That description is generated entirely by OpenAI! Using the Data Fetcher [extension](https://datafetcher.com/) on Airtable I was able to have the Davinci model read each row and give a summary of the plugin.
 
@@ -69,9 +75,13 @@ You’re probably thinking, okay this is cool but why wouldn’t I just use Wix,
 
 On another table called “listicle” I have it set where I type in a topic and number of list items and it generates an article title.
 
+![programmatic contetent](/programmatic-content-screenshot.png)
+
 Then OpenAI writes the article based on the info in the table and posts it. It can even generate images for the blog posts but I don’t think the public is ready for it’s art style…
 
-“lofi horror clipart”
+
+![lofi horror clipart](/lofi-horror-clipart.png)
+*“lofi horror clipart”*
 
 Once I have the base plugin data populated, I’ll be able to generate tons of content. Basically you just pick two different properties, make a table and then generate articles for them. “_Synths_ under _$10_" “_Drumkit_ under _$50_”  
 Best _Compressors_ for _FL Studio_”, etc.

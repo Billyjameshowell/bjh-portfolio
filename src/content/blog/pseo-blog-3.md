@@ -30,6 +30,8 @@ After a week, organic search traffic started trickling in. From there I [refined
 
 Two weeks later I’ve got a functional website and app thanks to [Softr.io](http://softr.io), [Airtable](http://airtable.com) and [Midjourney](http://midjourney.com). Clients can login and use my system all in one convenient dashboard.
 
+![we did it.](/blog-post-to-landing-page.png)
+
 What does 10MinuteCMO do?
 =========================
 
@@ -48,6 +50,8 @@ What do I have to do?
 =====================
 
 It’s no fun setting up database tables and automations and API keys so we do that part for you. All you need to do is spend 10 minutes a day looking at content and asking “Is this up to our quality standards?” and “Does this fit our brand voice?”
+
+![idea generator dashboard](/content-idea-dashboard.png)
 
 Example blog content dashboard
 
