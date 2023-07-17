@@ -6,7 +6,7 @@ tags:
     - SEO
     - No Code
 imgUrl: /vstdatabaselp.png
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: Learn how to make an MVP of your PSEO blog in just 15 minutes. This post will save you hours of research and tutorials.
 layout: '../../layouts/BlogPost.astro'
 ---
 =======================================================
