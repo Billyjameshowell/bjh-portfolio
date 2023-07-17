@@ -93,4 +93,8 @@ Clean those articles up, add internal links, affiliate links and more pictures. 
 Thanks for reading
 ==================
 
-Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! If you need help with SEO & blog content please dm me! Also, check out my [portfolio](https://billyjameshowell.github.io/) site.
+Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! 
+
+## [Read Part 2](https://billyjameshowell.com/blog/pseo-blog-2)
+## [Read Part 3](https://billyjameshowell.com/blog/pseo-blog-3)
+

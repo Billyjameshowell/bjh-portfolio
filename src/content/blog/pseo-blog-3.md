@@ -10,7 +10,7 @@ description: Learn how to go from concept to product quick. Ship at the speed of
 layout: '../../layouts/BlogPost.astro'
 ---
 =======================================================
-Hi! I just launched a SaaS product @ [10MinuteCMO.com](http://10minutecmo.com).
+Hi! I just launched a SaaS product @ [10MinuteCMO.com](http://10minutecmo.com). This is part 3 of my PSEO bloggin series. Here is [part 1](https://billyjameshowell.com/blog/pseo-blog-1) and [part 2](https://billyjameshowell.com/blog/pseo-blog-2)
 
 The Tagline: Crush SEO by building up content targeting low volume keywords everyday in just 10 minutes.
 ========================================================================================================
@@ -60,3 +60,6 @@ Our system will learn from you feedback and decisions.
 After a month you will have a mountain of SEO, blog and/or social content to publish. You can take the training wheels off at any time and take the turnkey system.
 
 Readers of this article can get a demo tailored to their business for free! All you have to do is sign up [here](https://www.10minutecmo.com/sign-up).
+
+## [Read Part 1](https://billyjameshowell.com/blog/pseo-blog-1)
+## [Read Part 2](https://billyjameshowell.com/blog/pseo-blog-2)

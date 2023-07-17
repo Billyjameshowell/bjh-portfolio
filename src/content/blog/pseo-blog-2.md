@@ -11,12 +11,12 @@ layout: '../../layouts/BlogPost.astro'
 ---
 =======================================================
 
-I’ve been learning PSEO for 7 days now. I have two websites up and running:
+I’ve been learning PSEO for 7 days now. If you missed [part 1](https://billyjameshowell.com/blog/pseo-blog-1/) of this series, I currently have two websites up and running:
 
 *   [vstdatabase.com](http://vstdatabase.com)
 *   [pickleballerblog.com](http://pickleballerblog.com)
 
-These are two topics I know I can generate lots of content ideas about, which is key for this type of website.
+These are two topics I know I can generate lots of content ideas about, which is key for this type of website. 
 
 Current Stack
 =============
@@ -79,4 +79,7 @@ And here’s [part one](https://medium.com/@billy-howell/i-learned-programmatic-
 Thanks
 ======
 
-Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! If you need help with SEO & blog content please dm me! Also, check out my [portfolio](https://billyjameshowell.github.io/) site.
+Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! 
+
+## [Read Part 3](https://billyjameshowell.com/blog/pseo-blog-3)
+## [Go back to Part 2](https://billyjameshowell.com/blog/pseo-blog-3)
