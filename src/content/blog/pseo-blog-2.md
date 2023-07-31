@@ -79,7 +79,7 @@ And here’s [part one](https://medium.com/@billy-howell/i-learned-programmatic-
 Thanks
 ======
 
-Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! 
+Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyjhowell)! 
 
 ## [Read Part 3](https://billyjameshowell.com/blog/pseo-blog-3)
 ## [Go back to Part 2](https://billyjameshowell.com/blog/pseo-blog-3)

@@ -93,7 +93,7 @@ Clean those articles up, add internal links, affiliate links and more pictures. 
 Thanks for reading
 ==================
 
-Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyowexlabs)! 
+Please share this article and follow me on Twitter [@billyowexlabs](https://twitter.com/billyjhowell)! 
 
 ## [Read Part 2](https://billyjameshowell.com/blog/pseo-blog-2)
 ## [Read Part 3](https://billyjameshowell.com/blog/pseo-blog-3)
