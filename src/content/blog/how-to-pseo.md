@@ -43,7 +43,7 @@ There's a zillion AI wrapper out there. Vetting each one for usefulness is a gru
 
 This topic is a whole blog post in its own! 
 
-## @hat can marketers do to embrace to test AI?
+## What can marketers do to test AI?
 
 Start with A/B testing blog posts and landing pages. Try generating content with @openai or @AnthropicAI.
 
