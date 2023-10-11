@@ -5,7 +5,7 @@ author: "Billy Howell"
 tags:
     - SAAS
     - No Code
-imgUrl: /10minutecmolp.png
+imgUrl: /saas-fatigue.png
 description: There is too much SaaS and too little time
 layout: '../../layouts/BlogPost.astro'
 ---
