@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Host: https://billyjameshowell.com/
-Sitemap: 
+Sitemap: https://billyjameshowell.com/sitemap-0.xml
